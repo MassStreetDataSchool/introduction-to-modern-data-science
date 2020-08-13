@@ -1,0 +1,2 @@
+conda install jupyterlab -y
+jupyter lab

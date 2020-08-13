@@ -1,0 +1,11 @@
+conda create -n data_science python=3.7
+conda activate data_science
+conda env list
+conda list
+pip install tensorflow==2.0.0
+conda install pandas==0.25.1 -y
+conda install matplotlib -y
+conda install seaborn -y
+conda install scikit-learn -y
+conda install jupyter notebook -y
+conda list
